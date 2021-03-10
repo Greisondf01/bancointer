@@ -2,3 +2,4 @@
 Olá! Bem vindo ao libreo de receitas:
 - STrognoff
 - Teste
+- Peixada
